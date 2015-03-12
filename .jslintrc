@@ -1,0 +1,21 @@
+{
+  "indent": 2,
+  "maxlen": 75,
+  "node":   true,
+  "predef": [
+    "_",
+    "$",
+    "it",
+    "FB",
+    "expect",
+    "inject",
+    "JQuery",
+    "window",
+    "module",
+    "require",
+    "angular",
+    "document",
+    "describe",
+    "beforeEach"
+  ]
+}

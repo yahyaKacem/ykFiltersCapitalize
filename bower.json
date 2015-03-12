@@ -1,0 +1,25 @@
+{
+  "version": "3.0.0",
+  "license": "MIT",
+  "main": "capitalize.js",
+  "name": "ykFiltersCapitalize",
+  "dependencies": {"angular": ">=1.3.14"},
+  "devDependencies": {"angular-mocks": ">=1.3.14"},
+  "keywords": ["angularjs", "capitalize", "filter"],
+  "description": "AngularJS filter to capitalize sentences",
+  "homepage": "https://github.com/yahyaKacem/ykFiltersCapitalize.git",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:yahyakacem/ykFiltersCapitalize.git"
+  },
+  "author": "Yahya Kacem <fuj.tyoli@gmail.com>",
+  "ignore": [
+    "**/.*",
+    "src/libs",
+    "**/*.json",
+    "Gruntfile.js",
+    "node_modules",
+    "src/app/tests",
+    "karma.conf.js"
+  ]
+}
